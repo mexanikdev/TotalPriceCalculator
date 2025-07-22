@@ -1,7 +1,7 @@
 # TotalPriceCalculator
 App to maintain list of items and calculate their price.
 <html>
-<title>Total price calculator.</title></head>
+Total price calculator.
 <body>
 <h1>Total price calculator.</h1>
 <img src="tpc_2.png" alt="App icon" />
