@@ -11,4 +11,4 @@ It can not accept empty or duplicated titles as well as negative float numbers a
 	<p>The total price is calculated by entering the desired amount in the respective text boxes in the list and selecting items that need to be calculated. There is select / unselect all check box in the top of the list.
 </p>
 <p style="color:blue;"> The app can run on PC with Windows 10 Build 15063 and later as well as on Windows 10 Mobile devices (latest version should work).</p>
-<p> In order to run on the app on PC,the test certificate should be installed from within the appx bundle file.</p>
+<p> In order to run on the app on PC, the test certificate should be installed from within the appx bundle file.</p>
