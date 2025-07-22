@@ -14,6 +14,7 @@ a {
 color:violet;
 }
 </style>
+</head>
 <title>Total price calculator.</title></head>
 <body>
 <h1>Total price calculator.</h1>
