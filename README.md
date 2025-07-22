@@ -1,4 +1,3 @@
-# TotalPriceCalculator
 <h1>Total price calculator.</h1>
 <img src="tpc_2.png" alt="App icon" />
 <p>This app made to help to maintain list of items with their prices for certain amount and calculates total price.</p>
