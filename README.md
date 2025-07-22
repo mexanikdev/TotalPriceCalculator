@@ -1,5 +1,4 @@
 <h1>Total price calculator.</h1>
-<img src="tpc_2.png" alt="App icon" />
 <p>This app made to help to maintain list of items with their prices for certain amount and calculates total price.</p>
 <h4>Manual:</h4>
 <p>There is a small circle with plus sign, if it is pressed it opens list of text boxes to add
