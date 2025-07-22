@@ -1,20 +1,6 @@
 # TotalPriceCalculator
 App to maintain list of items and calculate their price.
 <html>
-<head>
-<style>
-p,h4,h1 {
-text-indent: 20px;
-font-family: Arial, Verdana, sans-serif;
-}
-img {
-float:left; width:105px; height:130px; margin: 100px;
-}
-a {
-color:violet;
-}
-</style>
-</head>
 <title>Total price calculator.</title></head>
 <body>
 <h1>Total price calculator.</h1>
