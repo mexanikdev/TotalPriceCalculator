@@ -1,0 +1,31 @@
+# Freeware License Agreement
+
+**IMPORTANT:** READ CAREFULLY BEFORE USING THIS SOFTWARE.
+
+## 1. License Grant
+You are granted a non-exclusive, non-transferable, free license to use this software ("Software") provided by MeXaNiK. This Software is closed source; you may not access, modify, decompile, reverse engineer, or redistribute the source code or any part thereof.
+
+## 2. Advertising
+This Software displays banner advertisements. By installing and using the Software, you consent to the display of such advertisements as part of your user experience.
+
+## 3. Ownership
+All rights, title, and interest in the Software, including all intellectual property rights, remain with MeXaNiK.
+
+## 4. Restrictions
+You may not remove, block, disable, or otherwise interfere with the display and operation of advertisements within the Software.
+
+## 5. Termination
+This license is effective until terminated. Violation of any of these terms will result in automatic termination of the license, requiring you to stop all use of the Software and remove it from your devices.
+
+## 6. Disclaimer of Warranty
+The Software is provided "AS IS", without warranty of any kind, express or implied. MeXaNiK does not guarantee that the Software will be error-free or uninterrupted.
+
+## 7. Limitation of Liability
+In no event will MeXaNiK be liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages, arising out of the use or inability to use the Software.
+
+## 8. Privacy
+Banner ads may be served by third-party providers. Please refer to the Software's Privacy Policy for details on what information may be collected and how it is used.
+
+---
+
+Copyright © 2025 MeXaNiK. All rights reserved.
