@@ -1,8 +1,4 @@
 # TotalPriceCalculator
-App to maintain list of items and calculate their price.
-<html>
-Total price calculator.
-<body>
 <h1>Total price calculator.</h1>
 <img src="tpc_2.png" alt="App icon" />
 <p>This app made to help to maintain list of items with their prices for certain amount and calculates total price.</p>
@@ -18,5 +14,3 @@ It can not accept empty or duplicated titles as well as negative float numbers a
 </p>
 <p style="color:blue;"> The app can run on PC with Windows 10 Build 15063 and later as well as on Windows 10 Mobile devices (latest version should work). Here is the <a href="Total_price_calculator_1.0.0.0_x86_x64_arm.appxbundle">link</a>.</p>
 <p> In order to run on the app on PC,the test certificate should be installed from within the appx bundle file.</p>
-</body>
-</html>
