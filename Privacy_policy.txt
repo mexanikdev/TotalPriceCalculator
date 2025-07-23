@@ -1,0 +1,5 @@
+# Privacy Policy
+
+This application does not collect, store, or share any personal data from users.
+
+The application uses an internet connection solely for displaying banner advertisements. No personal or usage data is collected or transmitted for any other purpose.
